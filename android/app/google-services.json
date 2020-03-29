@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "40476269326",
+    "firebase_url": "https://lojavirtual-bcd4d.firebaseio.com",
+    "project_id": "lojavirtual-bcd4d",
+    "storage_bucket": "lojavirtual-bcd4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40476269326:android:fba759e8a868daf38e955f",
+        "android_client_info": {
+          "package_name": "br.com.aquino.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40476269326-nk4mf40ddfgf119soqivloilmekfqf6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARe-Opo_BvXxcQRKWf9SAhGQkrKQz9D3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40476269326-nk4mf40ddfgf119soqivloilmekfqf6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40476269326:android:25f8975dbc21e6018e955f",
+        "android_client_info": {
+          "package_name": "br.com.aquino.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40476269326-nk4mf40ddfgf119soqivloilmekfqf6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARe-Opo_BvXxcQRKWf9SAhGQkrKQz9D3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40476269326-nk4mf40ddfgf119soqivloilmekfqf6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40476269326:android:c0f09ffda2b29ce38e955f",
+        "android_client_info": {
+          "package_name": "com.aQUIBNO.TESTE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40476269326-nk4mf40ddfgf119soqivloilmekfqf6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARe-Opo_BvXxcQRKWf9SAhGQkrKQz9D3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40476269326-nk4mf40ddfgf119soqivloilmekfqf6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
